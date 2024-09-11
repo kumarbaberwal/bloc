@@ -1,0 +1,10 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "editor.codeActionsOnSave": {
+        "source": "always",
+        "source.fixAll": "always",
+        "source.generate.tests": "always",
+        "source.organizeImports": "always",
+        "source.sortMembers": "always",
+    }
+}
